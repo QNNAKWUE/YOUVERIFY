@@ -1,3 +1,5 @@
+//IsUnique
+
 const isUnique = (str) => {
 
     //create an empty object
